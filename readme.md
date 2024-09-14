@@ -23,6 +23,6 @@ To get started with this project, follow these simple steps:
     go build
     ./main
 
-## 📄 Getting Started
+## 📄 Requirements
     A valid Discord bot token 🔑
     Go installed on your system
